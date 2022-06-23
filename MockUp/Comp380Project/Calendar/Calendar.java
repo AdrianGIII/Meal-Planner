@@ -118,7 +118,7 @@ public class Calendar
         }
     }
     
-    //NOTE: INTACES ACTUAL DATE, COVERTS INTO ARRAY DATE
+    //NOTE: INTAKES ACTUAL DATE, COVERTS INTO ARRAY DATE
     
     public void movePoint(int month, int day){
         
